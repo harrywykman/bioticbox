@@ -1,0 +1,27 @@
+
+.bioticbox_font {
+    font-family: 'Josefin Slab';
+    font-size: 1.4em;
+}
+
+footer {
+    background-color: #ffffff;
+    border-top: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-family: 'Josefin Slab';
+}
+
+.title {
+    border-top: none;
+}
+
+body {
+    font-size: 18px;
+}
+
+.email_link {
+    font-family: 'Roboto Mono';
+    color: #333333;
+}
